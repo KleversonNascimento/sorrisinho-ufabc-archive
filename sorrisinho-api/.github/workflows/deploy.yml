@@ -1,0 +1,25 @@
+name: Deploy Digital Ocean
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy digital ocean
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ secrets.DO_HOST }}
+          username: ${{ secrets.DO_USERNAME }}
+          key: ${{ secrets.DO_KEY }}
+          port: ${{ secrets.DO_PORT }}
+          script: |
+            whoami
+            rm -rf sorrisinho-api
+            git clone git@github.com:KleversonNascimento/sorrisinho-api.git
+            cd sorrisinho-api
+            git checkout main
+            git pull origin main
+            sudo chmod +x ./deploy.sh
+            ./deploy.sh

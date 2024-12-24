@@ -1,0 +1,164 @@
+[
+    {
+        "lunch": {
+            "name": "Iscas de carne ao molho escuro"
+        },
+        "vegan": {
+            "name": "Almônedegas de ervilha seca ao molho sugo"
+        },
+        "sidedish": {
+            "name": "Virado de couve"
+        },
+        "salad": {
+            "list": "Acelga, beterraba ralada e chuchu com salsa"
+        },
+        "dessert": {
+            "list": "Goiabada cremosa e maçã"
+        },
+        "date": "2024-07-01",
+        "dinner": {
+            "name": "Strogonoff de frango"
+        },
+        "vegan_dinner": {
+            "name": "Strogonoff de PTS"
+        },
+        "sidedish_dinner": {
+            "name": "Batata palha"
+        }
+    },
+    {
+        "lunch": {
+            "name": "Filé de frango grelhado"
+        },
+        "vegan": {
+            "name": "Falafel"
+        },
+        "sidedish": {
+            "name": "Creme de milho"
+        },
+        "salad": {
+            "list": "Alface crespa, grega e cenoura ralada"
+        },
+        "dessert": {
+            "list": "Gelatina de uva e melão"
+        },
+        "date": "2024-07-02",
+        "dinner": {
+            "name": "Carne assada ao molho madeira"
+        },
+        "vegan_dinner": {
+            "name": "Chilli vegetariano"
+        },
+        "sidedish_dinner": {
+            "name": "Escarola ao alho"
+        }
+    },
+    {
+        "lunch": {
+            "name": "Carne moída com milho"
+        },
+        "vegan": {
+            "name": "Moussaka de PTS ao molho sugo"
+        },
+        "sidedish": {
+            "name": "Repolho refogado"
+        },
+        "salad": {
+            "list": "Rúcula, pepino e cebola agridoce"
+        },
+        "dessert": {
+            "list": "Canjica com amendoim e melancia"
+        },
+        "date": "2024-07-03",
+        "dinner": {
+            "name": "Frango assado ao molho mostarda"
+        },
+        "vegan_dinner": {
+            "name": "Hambúrguer de lentilha"
+        },
+        "sidedish_dinner": {
+            "name": "Macarrão ao alho e óleo"
+        }
+    },
+    {
+        "lunch": {
+            "name": "Cubos suínos ao molho de ervas"
+        },
+        "vegan": {
+            "name": "Rocambole vegetariano"
+        },
+        "sidedish": {
+            "name": "Cenoura sauté"
+        },
+        "salad": {
+            "list": "Escarola, europa e feijão fradinho ao vinagrete"
+        },
+        "dessert": {
+            "list": "Pudim de chinês e banana"
+        },
+        "date": "2024-07-04",
+        "dinner": {
+            "name": "Filé de peixe ao molho de limão"
+        },
+        "vegan_dinner": {
+            "name": "Omelete de milho e ervilha (forno)"
+        },
+        "sidedish_dinner": {
+            "name": "Abobrinha aromática"
+        }
+    },
+    {
+        "lunch": {
+            "name": "Frango crocante"
+        },
+        "vegan": {
+            "name": "Charuto de lentilha"
+        },
+        "sidedish": {
+            "name": "Polenta cremosa"
+        },
+        "salad": {
+            "list": "Alface crespa, berinjela na salsa e tomate e cebola"
+        },
+        "dessert": {
+            "list": "Gelatina de pêssego e laranja"
+        },
+        "date": "2024-07-05",
+        "dinner": {
+            "name": "Bife bovino grelhado"
+        },
+        "vegan_dinner": {
+            "name": "Kibe de grão de bico com abóbora"
+        },
+        "sidedish_dinner": {
+            "name": "Acelga refogada"
+        }
+    },
+    {
+        "lunch": {
+            "name": "Picadinho de carne bovina"
+        },
+        "vegan": {
+            "name": "Tomate recheado com ricota"
+        },
+        "sidedish": {
+            "name": "Couve ao alho"
+        },
+        "salad": {
+            "list": "Repolho bicolor, abobrinha ralada e soja na salsa"
+        },
+        "dessert": {
+            "list": "Doce de abóbora e abacaxi"
+        },
+        "date": "2024-07-06",
+        "dinner": {
+            "name": ""
+        },
+        "vegan_dinner": {
+            "name": ""
+        },
+        "sidedish_dinner": {
+            "name": ""
+        }
+    }
+]

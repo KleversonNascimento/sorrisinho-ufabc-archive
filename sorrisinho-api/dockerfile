@@ -1,0 +1,17 @@
+FROM gradle:8.1.1-jdk11 AS build
+# Create a workdir for our app
+WORKDIR /usr/src/app
+COPY . /usr/src/app
+
+# Compile and package the application to an executable JAR
+RUN ./gradlew build
+
+# Using java 11
+FROM openjdk:11-jdk
+
+ARG JAR_FILE=/usr/src/app/build/libs/*.jar
+
+# Copying JAR file
+COPY --from=build ${JAR_FILE} sorrisinho-api-0.0.1-SNAPSHOT.jar
+
+ENTRYPOINT ["java","-jar","/sorrisinho-api-0.0.1-SNAPSHOT.jar"]

@@ -1,0 +1,642 @@
+[
+    {
+        "startDate": "2024-01-01",
+        "endDate": "2024-01-08",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Lançamento de conceitos",
+        "description": "Lançamento de conceitos de 2023.3"
+    },
+    {
+        "startDate": "2024-01-09",
+        "endDate": "2024-01-23",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Avaliação de disciplinas",
+        "description": "Avaliação de disciplinas 3º quadrimestre 2023"
+    },
+    {
+        "startDate": "2024-01-18",
+        "endDate": "2024-01-19",
+        "startTime": "12:00",
+        "endTime": "23:59",
+        "name": "Ajuste de matrículas",
+        "description": "Ajuste de matrículas em disciplinas - 1º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-01-01",
+        "endDate": "2024-01-31",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de colação de grau",
+        "description": "Solicitação de colação de grau de fevereiro – exclusivo para concluintes até 2023.2"
+    },
+    {
+        "startDate": "2024-01-25",
+        "endDate": "2024-01-26",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de matrícula especial",
+        "description": "Solicitação de matrícula – aluno especial"
+    },
+    {
+        "startDate": "2024-01-30",
+        "endDate": "2024-01-30",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 2º quadrimestre de 2023"
+    },
+    {
+        "startDate": "2024-02-05",
+        "endDate": "2024-02-05",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Início das aulas (veteranos)",
+        "description": "Início das aulas - 1º quadrimestre (veteranos)"
+    },
+    {
+        "startDate": "2024-02-05",
+        "endDate": "2024-02-09",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de matrícula",
+        "description": "Solicitação de matrícula em trabalho de graduação das engenharias, trabalho de conclusão de curso de BRI/BPP/BPT e monografia do BCE"
+    },
+    {
+        "startDate": "2024-02-05",
+        "endDate": "2024-02-16",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de revisão de conceito",
+        "description": "Solicitação de revisão de conceito e de instrumentos avaliativos (ref. 2023.3)"
+    },
+    {
+        "startDate": "2024-02-05",
+        "endDate": "2024-02-11",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de cancelamento de disciplinas",
+        "description": "Solicitação de cancelamento de disciplinas"
+    },
+    {
+        "startDate": "2024-02-19",
+        "endDate": "2024-02-23",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de aproveitamento de disciplina",
+        "description": "Solicitação de aproveitamento de disciplina como livre escolha"
+    },
+    {
+        "startDate": "2024-02-19",
+        "endDate": "2024-02-23",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de equivalência de disciplina",
+        "description": "Solicitação de equivalência de disciplina"
+    },
+    {
+        "startDate": "2024-02-16",
+        "endDate": "2024-02-18",
+        "startTime": "12:00",
+        "endTime": "23:59",
+        "name": "Reajuste de matrículas",
+        "description": "Reajuste de matrículas em disciplinas - 1º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-02-23",
+        "endDate": "2024-02-26",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Inscrições para formação específica",
+        "description": "Inscrições para os cursos de formação específica – válida para 2024.2"
+    },
+    {
+        "startDate": "2024-02-26",
+        "endDate": "2024-03-03",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Lançamento de conceitos",
+        "description": "Lançamento de conceitos da recuperação (2023.3)"
+    },
+    {
+        "startDate": "2024-02-27",
+        "endDate": "2024-02-27",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 2º quadrimestre de 2023"
+    },
+    {
+        "startDate": "2024-02-01",
+        "endDate": "2024-02-29",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de colação de grau",
+        "description": "Solicitação de colação de grau de março – exclusivo para concluintes até 2023.3"
+    },
+    {
+        "startDate": "2024-03-18",
+        "endDate": "2024-03-25",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Avaliação de cursos",
+        "description": "Avaliação de cursos"
+    },
+    {
+        "startDate": "2024-03-04",
+        "endDate": "2024-03-11",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de revisão de conceito",
+        "description": "Solicitação de revisão de conceito e de instrumentos avaliativos (ref. 2023.3, pós REC)"
+    },
+    {
+        "startDate": "2024-03-21",
+        "endDate": "2024-03-25",
+        "startTime": "12:00",
+        "endTime": "23:59",
+        "name": "Matrículas",
+        "description": "Matrículas para o 2º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-03-01",
+        "endDate": "2024-03-31",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de colação de grau",
+        "description": "Solicitação de colação de grau de abril – exclusivo para concluintes até 2023.3"
+    },
+    {
+        "startDate": "2024-03-17",
+        "endDate": "2024-03-17",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Fim do prazo para trancamento",
+        "description": "Fim do prazo para trancamento de matrícula sem justificativa"
+    },
+    {
+        "startDate": "2024-04-02",
+        "endDate": "2024-04-02",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 3º quadrimestre de 2023"
+    },
+    {
+        "startDate": "2024-04-30",
+        "endDate": "2024-04-30",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 3º quadrimestre de 2023"
+    },
+    {
+        "startDate": "2024-04-01",
+        "endDate": "2024-04-30",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de colação de grau",
+        "description": "Solicitação de colação de grau de maio – exclusivo para concluintes até 2023.3"
+    },
+    {
+        "startDate": "2024-05-07",
+        "endDate": "2024-05-07",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Conclusão do quadrimestre",
+        "description": "Conclusão do 1º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-05-15",
+        "endDate": "2024-05-19",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Inscrições para troca de turno",
+        "description": "Inscrições para troca de turno - válida para o 3º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-05-16",
+        "endDate": "2024-05-17",
+        "startTime": "12:00",
+        "endTime": "23:59",
+        "name": "Ajuste de matrículas",
+        "description": "Ajuste de matrículas em disciplinas - 2º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-05-22",
+        "endDate": "2024-05-23",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de matrícula especial",
+        "description": "Solicitação de matrícula – aluno especial"
+    },
+    {
+        "startDate": "2024-05-28",
+        "endDate": "2024-05-28",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 3º quadrimestre de 2023"
+    },
+    {
+        "startDate": "2024-05-01",
+        "endDate": "2024-05-31",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de colação de grau",
+        "description": "Solicitação de colação de grau de junho – exclusivo para concluintes até 2023.3"
+    },
+    {
+        "startDate": "2024-06-03",
+        "endDate": "2024-06-13",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Avaliação de disciplinas",
+        "description": "Avaliação de disciplinas 1º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-06-03",
+        "endDate": "2024-06-03",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Início das aulas",
+        "description": "Início das aulas - 2º quadrimestre (ingressantes e veteranos)"
+    },
+    {
+        "startDate": "2024-06-03",
+        "endDate": "2024-06-10",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de matrícula",
+        "description": "Solicitação de matrícula em trabalho de graduação das engenharias, trabalho de conclusão de curso de BRI, BPP e BPT, e monografia do BCE"
+    },
+    {
+        "startDate": "2024-06-05",
+        "endDate": "2024-06-16",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de revisão de conceito",
+        "description": "Solicitação de revisão de conceito e de instrumentos avaliativos (ref. 2024.1)"
+    },
+    {
+        "startDate": "2024-06-03",
+        "endDate": "2024-06-09",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de cancelamento de disciplinas",
+        "description": "Solicitação de cancelamento de disciplinas"
+    },
+    {
+        "startDate": "2024-06-19",
+        "endDate": "2024-06-23",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Inscrição para transferência",
+        "description": "Inscrição para transferência externa"
+    },
+    {
+        "startDate": "2024-06-14",
+        "endDate": "2024-06-17",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Inscrições para formação específica",
+        "description": "Inscrições para os cursos de formação específica – válida para o 2024.3"
+    },
+    {
+        "startDate": "2024-06-24",
+        "endDate": "2024-06-30",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Lançamento de conceitos",
+        "description": "Lançamento de conceitos da recuperação (2024.1)"
+    },
+    {
+        "startDate": "2024-06-10",
+        "endDate": "2024-06-14",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de aproveitamento de disciplina",
+        "description": "Solicitação de aproveitamento de disciplina como livre escolha"
+    },
+    {
+        "startDate": "2024-06-10",
+        "endDate": "2024-06-14",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de equivalência de disciplina",
+        "description": "Solicitação de equivalência de disciplina"
+    },
+    {
+        "startDate": "2024-06-28",
+        "endDate": "2024-06-28",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 3º quadrimestre de 2023"
+    },
+    {
+        "startDate": "2024-06-01",
+        "endDate": "2024-06-30",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de colação de grau",
+        "description": "Solicitação de colação de grau de julho – exclusivo para concluintes até 2024.1"
+    },
+    {
+        "startDate": "2024-07-03",
+        "endDate": "2024-07-05",
+        "startTime": "12:00",
+        "endTime": "23:59",
+        "name": "Matrículas",
+        "description": "Matrículas para o 3º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-07-01",
+        "endDate": "2024-07-10",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de revisão de conceito",
+        "description": "Solicitação de revisão de conceito e de instrumentos avaliativos (ref. 2024.1, pós REC)"
+    },
+    {
+        "startDate": "2024-07-14",
+        "endDate": "2024-07-14",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Fim do prazo para trancamento",
+        "description": "Fim do prazo para trancamento de matrícula sem justificativa"
+    },
+    {
+        "startDate": "2024-07-16",
+        "endDate": "2024-07-21",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Inscrições para formação específica",
+        "description": "Inscrições cursos de formação específica para egressos de cursos interdisciplinares"
+    },
+    {
+        "startDate": "2024-07-30",
+        "endDate": "2024-07-30",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 1º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-07-01",
+        "endDate": "2024-07-31",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de colação de grau",
+        "description": "Solicitação de colação de grau de agosto – exclusivo para concluintes até 2024.1"
+    },
+    {
+        "startDate": "2024-08-26",
+        "endDate": "2024-09-09",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Lançamento de conceitos",
+        "description": "Lançamento de conceitos do 2º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-08-29",
+        "endDate": "2024-08-29",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Conclusão do quadrimestre",
+        "description": "Conclusão do 2º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-08-29",
+        "endDate": "2024-08-30",
+        "startTime": "12:00",
+        "endTime": "23:59",
+        "name": "Ajuste de matrículas",
+        "description": "Ajuste de matrículas em disciplinas - 3º quadrimestre"
+    },
+    {
+        "startDate": "2024-08-30",
+        "endDate": "2024-08-30",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 1º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-08-01",
+        "endDate": "2024-08-31",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de colação de grau",
+        "description": "Solicitação de colação de grau de setembro – exclusivo para concluintes até 2024.1"
+    },
+    {
+        "startDate": "2024-09-05",
+        "endDate": "2024-09-06",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de matrícula especial",
+        "description": "Solicitação de matrícula – aluno especial"
+    },
+    {
+        "startDate": "2024-09-16",
+        "endDate": "2024-09-16",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Início das aulas",
+        "description": "Início das aulas - 3º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-09-16",
+        "endDate": "2024-09-20",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de matrícula",
+        "description": "Solicitação de matrícula em trabalho de graduação das engenharias, trabalho de conclusão de curso de BRI, BPP e BPT, e monografia do BCE"
+    },
+    {
+        "startDate": "2024-09-16",
+        "endDate": "2024-09-26",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Avaliação de disciplinas",
+        "description": "Avaliação de disciplinas 2º quadrimestre 2024"
+    },
+    {
+        "startDate": "2024-09-16",
+        "endDate": "2024-09-23",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de revisão de conceito",
+        "description": "Solicitação de revisão de conceito e de instrumentos avaliativos (ref. 2024.2)"
+    },
+    {
+        "startDate": "2024-09-16",
+        "endDate": "2024-09-22",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de cancelamento de disciplinas",
+        "description": "Solicitação de cancelamento de disciplinas"
+    },
+    {
+        "startDate": "2024-09-23",
+        "endDate": "2024-09-27",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de aproveitamento de disciplina",
+        "description": "Solicitação de aproveitamento de disciplina como livre escolha"
+    },
+    {
+        "startDate": "2024-09-23",
+        "endDate": "2024-09-27",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de equivalência de disciplina",
+        "description": "Solicitação de equivalência de disciplina"
+    },
+    {
+        "startDate": "2024-09-24",
+        "endDate": "2024-09-25",
+        "startTime": "12:00",
+        "endTime": "12:00",
+        "name": "Reajuste de matrículas",
+        "description": "Reajuste de matrículas em disciplinas - 3º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-09-27",
+        "endDate": "2024-09-27",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 1º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-09-01",
+        "endDate": "2024-09-30",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de colação de grau",
+        "description": "Solicitação de colação de grau de outubro – exclusivo para concluintes até 2024.1"
+    },
+    {
+        "startDate": "2024-10-11",
+        "endDate": "2024-10-14",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Inscrições para formação específica",
+        "description": "Inscrições para os cursos de formação específica – válida para o 1º quadrimestre de 2025"
+    },
+    {
+        "startDate": "2024-10-07",
+        "endDate": "2024-10-13",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Lançamento de conceitos",
+        "description": "Lançamento de conceitos da recuperação (2024.2)"
+    },
+    {
+        "startDate": "2024-10-14",
+        "endDate": "2024-10-21",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de revisão de conceito",
+        "description": "Solicitação de revisão de conceito e de instrumentos avaliativos (ref. 2024.2, pós REC)"
+    },
+    {
+        "startDate": "2024-10-23",
+        "endDate": "2024-10-27",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Inscrições para troca de curso",
+        "description": "Inscrições para troca de curso de ingresso - válida para o 1º quadrimestre de 2025"
+    },
+    {
+        "startDate": "2024-10-27",
+        "endDate": "2024-10-27",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Fim do prazo para trancamento",
+        "description": "Fim do prazo para trancamento de matrícula sem justificativa"
+    },
+    {
+        "startDate": "2024-10-29",
+        "endDate": "2024-10-29",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 1º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-10-01",
+        "endDate": "2024-10-31",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de colação de grau",
+        "description": "Solicitação de colação de grau de novembro – exclusivo para concluintes até 2024.2"
+    },
+    {
+        "startDate": "2024-11-12",
+        "endDate": "2024-11-14",
+        "startTime": "12:00",
+        "endTime": "23:59",
+        "name": "Matrículas",
+        "description": "Matrículas para o 1º quadrimestre de 2025"
+    },
+    {
+        "startDate": "2024-11-29",
+        "endDate": "2024-11-29",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 2º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-12-19",
+        "endDate": "2024-12-19",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Conclusão do quadrimestre",
+        "description": "Conclusão do 3º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-12-09",
+        "endDate": "2024-01-08",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Lançamento de conceitos",
+        "description": "Lançamento de conceitos do 3º quadrimestre de 2024"
+    },
+    {
+        "startDate": "2024-12-01",
+        "endDate": "2024-12-31",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Solicitação de colação de grau",
+        "description": "Solicitação de colação de grau de janeiro/2025 – exclusivo para concluintes até 2024.2"
+    },
+    {
+        "startDate": "2025-01-09",
+        "endDate": "2025-01-23",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Avaliação de disciplinas",
+        "description": "Avaliação de disciplinas 3º quadrimestre 2024"
+    },
+    {
+        "startDate": "2025-01-14",
+        "endDate": "2025-01-15",
+        "startTime": "12:00",
+        "endTime": "23:59",
+        "name": "Ajuste de matrículas",
+        "description": "Ajuste de matrículas em disciplinas - 1º quadrimestre de 2025"
+    },
+    {
+        "startDate": "2025-01-31",
+        "endDate": "2025-01-31",
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "name": "Colação de grau",
+        "description": "Colação de grau – exclusivo para concluintes até o 2º quadrimestre de 2024"
+    }
+]

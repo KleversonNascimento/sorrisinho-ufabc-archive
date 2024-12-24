@@ -1,0 +1,1469 @@
+[
+    {
+        "departure": "Santo André",
+        "departureTime": "06:45",
+        "arrival": "São Bernardo",
+        "arrivalTime": "07:20",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "07:25",
+        "arrival": "Santo André",
+        "arrivalTime": "07:56",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "06:55",
+        "arrival": "São Bernardo",
+        "arrivalTime": "07:30",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "07:32",
+        "arrival": "Santo André",
+        "arrivalTime": "08:03",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "07:05",
+        "arrival": "São Bernardo",
+        "arrivalTime": "07:40",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "07:45",
+        "arrival": "Santo André",
+        "arrivalTime": "08:16",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "07:10",
+        "arrival": "São Bernardo",
+        "arrivalTime": "07:45",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "07:50",
+        "arrival": "Santo André",
+        "arrivalTime": "08:20",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "07:15",
+        "arrival": "São Bernardo",
+        "arrivalTime": "07:50",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "07:55",
+        "arrival": "Santo André",
+        "arrivalTime": "08:25",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "07:20",
+        "arrival": "São Bernardo",
+        "arrivalTime": "07:55",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "08:00",
+        "arrival": "Santo André",
+        "arrivalTime": "08:30",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "08:01",
+        "arrival": "São Bernardo",
+        "arrivalTime": "08:36",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "08:41",
+        "arrival": "Santo André",
+        "arrivalTime": "09:11",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "08:21",
+        "arrival": "São Bernardo",
+        "arrivalTime": "08:51",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "08:56",
+        "arrival": "Santo André",
+        "arrivalTime": "09:26",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "08:31",
+        "arrival": "São Bernardo",
+        "arrivalTime": "09:01",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "09:06",
+        "arrival": "Santo André",
+        "arrivalTime": "09:36",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "08:46",
+        "arrival": "São Bernardo",
+        "arrivalTime": "09:16",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "09:21",
+        "arrival": "Santo André",
+        "arrivalTime": "09:51",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "09:01",
+        "arrival": "São Bernardo",
+        "arrivalTime": "09:31",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "09:36",
+        "arrival": "Santo André",
+        "arrivalTime": "10:04",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "09:14",
+        "arrival": "São Bernardo",
+        "arrivalTime": "09:44",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "10:04",
+        "arrival": "Santo André",
+        "arrivalTime": "10:32",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "09:31",
+        "arrival": "São Bernardo",
+        "arrivalTime": "10:01",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "10:16",
+        "arrival": "Santo André",
+        "arrivalTime": "10:44",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "09:46",
+        "arrival": "São Bernardo",
+        "arrivalTime": "10:16",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "10:30",
+        "arrival": "Santo André",
+        "arrivalTime": "10:58",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "10:04",
+        "arrival": "São Bernardo",
+        "arrivalTime": "10:33",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "10:48",
+        "arrival": "Santo André",
+        "arrivalTime": "11:16",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "10:31",
+        "arrival": "São Bernardo",
+        "arrivalTime": "11:00",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "11:15",
+        "arrival": "Santo André",
+        "arrivalTime": "11:43",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "10:45",
+        "arrival": "São Bernardo",
+        "arrivalTime": "11:14",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "11:30",
+        "arrival": "Santo André",
+        "arrivalTime": "11:58",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "11:08",
+        "arrival": "São Bernardo",
+        "arrivalTime": "11:37",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "11:42",
+        "arrival": "Santo André",
+
+
+        "arrivalTime": "12:08",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "11:21",
+        "arrival": "São Bernardo",
+        "arrivalTime": "11:50",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "12:04",
+        "arrival": "Santo André",
+        "arrivalTime": "12:30",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "11:40",
+        "arrival": "São Bernardo",
+        "arrivalTime": "12:09",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "12:14",
+        "arrival": "Santo André",
+        "arrivalTime": "12:40",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "11:50",
+        "arrival": "São Bernardo",
+        "arrivalTime": "12:19",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "12:22",
+        "arrival": "Santo André",
+        "arrivalTime": "12:48",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "12:00",
+        "arrival": "São Bernardo",
+        "arrivalTime": "12:29",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "12:32",
+        "arrival": "Santo André",
+        "arrivalTime": "12:58",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "12:05",
+        "arrival": "São Bernardo",
+        "arrivalTime": "12:34",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "12:39",
+        "arrival": "Santo André",
+        "arrivalTime": "13:05",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "12:10",
+        "arrival": "São Bernardo",
+        "arrivalTime": "12:38",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "12:43",
+        "arrival": "Santo André",
+        "arrivalTime": "13:09",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "12:32",
+        "arrival": "São Bernardo",
+        "arrivalTime": "13:00",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "13:05",
+        "arrival": "Santo André",
+        "arrivalTime": "13:31",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "12:45",
+        "arrival": "São Bernardo",
+        "arrivalTime": "13:14",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "13:19",
+        "arrival": "Santo André",
+        "arrivalTime": "13:45",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "12:58",
+        "arrival": "São Bernardo",
+        "arrivalTime": "13:28",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "13:33",
+        "arrival": "Santo André",
+        "arrivalTime": "14:01",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "13:21",
+        "arrival": "São Bernardo",
+        "arrivalTime": "13:50",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "13:55",
+        "arrival": "Santo André",
+        "arrivalTime": "14:21",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "13:46",
+        "arrival": "São Bernardo",
+        "arrivalTime": "14:15",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "14:20",
+        "arrival": "Santo André",
+        "arrivalTime": "14:46",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "14:00",
+        "arrival": "São Bernardo",
+        "arrivalTime": "14:29",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "14:34",
+        "arrival": "Santo André",
+        "arrivalTime": "15:00",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "14:25",
+        "arrival": "São Bernardo",
+        "arrivalTime": "14:54",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "14:59",
+        "arrival": "Santo André",
+        "arrivalTime": "15:29",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "14:45",
+        "arrival": "São Bernardo",
+        "arrivalTime": "15:14",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "15:19",
+        "arrival": "Santo André",
+        "arrivalTime": "15:49",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "15:10",
+        "arrival": "São Bernardo",
+        "arrivalTime": "15:40",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "15:45",
+        "arrival": "Santo André",
+        "arrivalTime": "16:24",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "15:25",
+        "arrival": "São Bernardo",
+        "arrivalTime": "15:57",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "16:02",
+        "arrival": "Santo André",
+        "arrivalTime": "16:44",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "15:46",
+        "arrival": "São Bernardo",
+        "arrivalTime": "16:25",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "16:28",
+        "arrival": "Santo André",
+        "arrivalTime": "17:23",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "16:00",
+        "arrival": "São Bernardo",
+        "arrivalTime": "16:41",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "16:45",
+        "arrival": "Santo André",
+        "arrivalTime": "17:40",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "16:15",
+        "arrival": "São Bernardo",
+        "arrivalTime": "16:56",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "17:00",
+        "arrival": "Santo André",
+        "arrivalTime": "17:55",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "16:25",
+        "arrival": "São Bernardo",
+        "arrivalTime": "17:06",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "17:10",
+        "arrival": "Santo André",
+        "arrivalTime": "18:05",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "16:39",
+        "arrival": "São Bernardo",
+        "arrivalTime": "17:20",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "17:22",
+        "arrival": "Santo André",
+        "arrivalTime": "18:17",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "17:00",
+        "arrival": "São Bernardo",
+        "arrivalTime": "17:41",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "17:43",
+        "arrival": "Santo André",
+        "arrivalTime": "18:38",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "17:25",
+        "arrival": "São Bernardo",
+        "arrivalTime": "18:06",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "18:09",
+        "arrival": "Santo André",
+        "arrivalTime": "19:04",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "17:45",
+        "arrival": "São Bernardo",
+        "arrivalTime": "18:26",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "18:29",
+        "arrival": "Santo André",
+        "arrivalTime": "19:16",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "18:05",
+        "arrival": "São Bernardo",
+        "arrivalTime": "18:46",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "18:50",
+        "arrival": "Santo André",
+        "arrivalTime": "19:35",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "18:10",
+        "arrival": "São Bernardo",
+        "arrivalTime": "18:51",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "18:55",
+        "arrival": "Santo André",
+        "arrivalTime": "19:40",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "18:19",
+        "arrival": "São Bernardo",
+        "arrivalTime": "19:00",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "19:03",
+        "arrival": "Santo André",
+        "arrivalTime": "19:51",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "18:40",
+        "arrival": "São Bernardo",
+        "arrivalTime": "19:21",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "19:24",
+        "arrival": "Santo André",
+        "arrivalTime": "20:09",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "19:06",
+        "arrival": "São Bernardo",
+        "arrivalTime": "19:47",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "19:50",
+        "arrival": "Terminal leste",
+        "arrivalTime": "20:24",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "19:50",
+        "arrival": "Santo André",
+        "arrivalTime": "20:30",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "19:18",
+        "arrival": "São Bernardo",
+        "arrivalTime": "19:54",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "19:58",
+        "arrival": "Terminal leste",
+        "arrivalTime": "20:32",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "19:58",
+        "arrival": "Santo André",
+        "arrivalTime": "20:38",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "19:38",
+        "arrival": "São Bernardo",
+        "arrivalTime": "20:13",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "20:18",
+        "arrival": "Terminal leste",
+        "arrivalTime": "20:48",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "20:18",
+        "arrival": "Santo André",
+        "arrivalTime": "20:54",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "19:45",
+        "arrival": "São Bernardo",
+        "arrivalTime": "20:20",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "20:00",
+        "arrival": "Terminal leste",
+        "arrivalTime": "20:06",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "20:00",
+        "arrival": "São Bernardo",
+        "arrivalTime": "20:38",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "20:42",
+        "arrival": "Terminal leste",
+        "arrivalTime": "21:05",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "20:42",
+        "arrival": "Santo André",
+        "arrivalTime": "21:11",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "20:13",
+        "arrival": "Terminal leste",
+        "arrivalTime": "20:19",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "20:13",
+        "arrival": "São Bernardo",
+        "arrivalTime": "20:51",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "20:55",
+        "arrival": "Terminal leste",
+        "arrivalTime": "21:18",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "20:55",
+        "arrival": "Santo André",
+        "arrivalTime": "21:24",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "20:38",
+        "arrival": "Terminal leste",
+        "arrivalTime": "20:44",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "20:38",
+        "arrival": "São Bernardo",
+        "arrivalTime": "21:16",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "21:20",
+        "arrival": "Terminal leste",
+        "arrivalTime": "21:43",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "21:20",
+        "arrival": "Santo André",
+        "arrivalTime": "21:49",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "21:00",
+        "arrival": "Terminal leste",
+        "arrivalTime": "21:06",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "21:00",
+        "arrival": "São Bernardo",
+        "arrivalTime": "21:30",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "21:33",
+        "arrival": "Terminal leste",
+        "arrivalTime": "21:56",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "21:33",
+        "arrival": "Santo André",
+        "arrivalTime": "22:02",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "21:15",
+        "arrival": "Terminal leste",
+        "arrivalTime": "21:21",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "21:15",
+        "arrival": "São Bernardo",
+        "arrivalTime": "21:45",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "21:50",
+        "arrival": "Terminal leste",
+        "arrivalTime": "22:13",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "21:50",
+        "arrival": "Santo André",
+        "arrivalTime": "22:19",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "21:26",
+        "arrival": "Terminal leste",
+        "arrivalTime": "21:32",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "21:26",
+        "arrival": "São Bernardo",
+        "arrivalTime": "21:56",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "22:03",
+        "arrival": "Terminal leste",
+        "arrivalTime": "22:26",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "22:03",
+        "arrival": "Santo André",
+        "arrivalTime": "22:32",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "21:41",
+        "arrival": "Terminal leste",
+        "arrivalTime": "21:47",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "21:41",
+        "arrival": "São Bernardo",
+        "arrivalTime": "22:10",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "22:15",
+        "arrival": "Terminal leste",
+        "arrivalTime": "22:38",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "22:15",
+        "arrival": "Santo André",
+        "arrivalTime": "22:44",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "22:07",
+        "arrival": "Terminal leste",
+        "arrivalTime": "22:13",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "22:07",
+        "arrival": "São Bernardo",
+        "arrivalTime": "22:36",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "22:41",
+        "arrival": "Terminal leste",
+        "arrivalTime": "23:04",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "22:41",
+        "arrival": "Santo André",
+        "arrivalTime": "23:10",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "22:15",
+        "arrival": "Terminal leste",
+        "arrivalTime": "22:21",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "22:15",
+        "arrival": "São Bernardo",
+        "arrivalTime": "22:44",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "22:47",
+        "arrival": "Terminal leste",
+        "arrivalTime": "23:10",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "22:47",
+        "arrival": "Santo André",
+        "arrivalTime": "23:16",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "22:25",
+        "arrival": "Terminal leste",
+        "arrivalTime": "22:31",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "22:25",
+        "arrival": "São Bernardo",
+        "arrivalTime": "22:54",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "23:02",
+        "arrival": "Terminal leste",
+        "arrivalTime": "23:24",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "23:02",
+        "arrival": "Santo André",
+        "arrivalTime": "23:31",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "22:37",
+        "arrival": "Terminal leste",
+        "arrivalTime": "22:43",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "22:37",
+        "arrival": "São Bernardo",
+        "arrivalTime": "23:06",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "23:10",
+        "arrival": "Terminal leste",
+        "arrivalTime": "23:32",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "23:10",
+        "arrival": "Santo André",
+        "arrivalTime": "23:38",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "22:47",
+        "arrival": "Terminal leste",
+        "arrivalTime": "22:53",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "22:47",
+        "arrival": "São Bernardo",
+        "arrivalTime": "23:14",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "23:17",
+        "arrival": "Terminal leste",
+        "arrivalTime": "23:39",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "23:17",
+        "arrival": "Santo André",
+        "arrivalTime": "23:45",
+        "line": 2,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "23:12",
+        "arrival": "Terminal leste",
+        "arrivalTime": "23:18",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "23:12",
+        "arrival": "São Bernardo",
+        "arrivalTime": "23:39",
+        "line": 3,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "23:19",
+        "arrival": "Terminal leste",
+        "arrivalTime": "23:25",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "23:19",
+        "arrival": "São Bernardo",
+        "arrivalTime": "23:45",
+        "line": 4,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "23:33",
+        "arrival": "Terminal leste",
+        "arrivalTime": "23:39",
+        "line": 5,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "23:39",
+        "arrival": "Terminal leste",
+        "arrivalTime": "23:45",
+        "line": 1,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "20:25",
+        "arrival": "Terminal São Bernardo",
+        "arrivalTime": "20:40",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Terminal São Bernardo",
+        "departureTime": "20:40",
+        "arrival": "São Bernardo",
+        "arrivalTime": "20:55",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "21:00",
+        "arrival": "Terminal São Bernardo",
+        "arrivalTime": "21:15",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Terminal São Bernardo",
+        "departureTime": "21:15",
+        "arrival": "São Bernardo",
+        "arrivalTime": "21:30",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "21:34",
+        "arrival": "Terminal São Bernardo",
+        "arrivalTime": "21:49",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Terminal São Bernardo",
+        "departureTime": "21:49",
+        "arrival": "São Bernardo",
+        "arrivalTime": "22:04",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "22:10",
+        "arrival": "Terminal São Bernardo",
+        "arrivalTime": "22:25",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Terminal São Bernardo",
+        "departureTime": "22:25",
+        "arrival": "São Bernardo",
+        "arrivalTime": "22:35",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "22:43",
+        "arrival": "Terminal São Bernardo",
+        "arrivalTime": "22:58",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Terminal São Bernardo",
+        "departureTime": "22:58",
+        "arrival": "São Bernardo",
+        "arrivalTime": "23:08",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "23:15",
+        "arrival": "Terminal São Bernardo",
+        "arrivalTime": "23:30",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Terminal São Bernardo",
+        "departureTime": "23:30",
+        "arrival": "São Bernardo",
+        "arrivalTime": "23:40",
+        "line": 6,
+        "frequency": "BUSINESS_DAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "06:50",
+        "arrival": "São Bernardo",
+        "arrivalTime": "07:25",
+        "line": 2,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "07:30",
+        "arrival": "Santo André",
+        "arrivalTime": "07:58",
+        "line": 2,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "07:10",
+        "arrival": "São Bernardo",
+        "arrivalTime": "07:45",
+        "line": 3,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "07:48",
+        "arrival": "Santo André",
+        "arrivalTime": "08:16",
+        "line": 3,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "08:13",
+        "arrival": "São Bernardo",
+        "arrivalTime": "08:48",
+        "line": 2,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "09:00",
+        "arrival": "Santo André",
+        "arrivalTime": "09:28",
+        "line": 2,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "08:50",
+        "arrival": "São Bernardo",
+        "arrivalTime": "09:19",
+        "line": 3,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "09:40",
+        "arrival": "Santo André",
+        "arrivalTime": "10:08",
+        "line": 3,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "10:50",
+        "arrival": "São Bernardo",
+        "arrivalTime": "11:19",
+        "line": 2,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "12:05",
+        "arrival": "Santo André",
+        "arrivalTime": "12:31",
+        "line": 2,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "12:05",
+        "arrival": "São Bernardo",
+        "arrivalTime": "12:33",
+        "line": 3,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "12:45",
+        "arrival": "Santo André",
+        "arrivalTime": "13:13",
+        "line": 3,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "13:05",
+        "arrival": "São Bernardo",
+        "arrivalTime": "13:33",
+        "line": 2,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "São Bernardo",
+        "departureTime": "14:00",
+        "arrival": "Santo André",
+        "arrivalTime": "14:26",
+        "line": 2,
+        "frequency": "SATURDAY"
+    },
+    {
+        "departure": "Santo André",
+        "departureTime": "14:00",
+        "arrival": "São Bernardo",
+        "arrivalTime": "14:28",
+        "line": 3,
+        "frequency": "SATURDAY"
+    }
+]
+
