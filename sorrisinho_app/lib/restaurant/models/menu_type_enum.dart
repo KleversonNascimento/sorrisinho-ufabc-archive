@@ -1,0 +1,4 @@
+enum RestaurantMenuTypeEnum {
+  lunch,
+  dinner;
+}

@@ -1,0 +1,4 @@
+enum ClassTypeEnum {
+  practical,
+  theory;
+}
