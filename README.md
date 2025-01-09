@@ -4,7 +4,7 @@
 
 # English version 🇺🇸
 
-Hello, if you are reading this in English, you are probably a recruiter, a software engineer or someone else without any context for this project. This project was an app that I developed as a personal project while I was in college, the idea of ​​the project was to help other students by making an app with features that they needed and at the same time explore more of my technical skills. As you can see by browsing the repository, it is not the best code example, today fortunately I am a much better software engineer than that, but I think it is interesting to keep this legacy here to share with other people from my college who may find something useful.
+Hello, if you are reading this in English, you are probably a recruiter, a software engineer or someone else without any context for this project. This project was an app that I developed as a personal project while I was in university, the idea of ​​the project was to help other students by making an app with features that they needed and at the same time explore more of my technical skills. As you can see by browsing the repository, it is not the best code example, today fortunately I am a much better software engineer than that, but I think it is interesting to keep this legacy here to share with other people from my college who may find something useful.
 
 # Versão brasileira 🇧🇷 
 
